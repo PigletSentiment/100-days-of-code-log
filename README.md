@@ -1,6 +1,5 @@
 <!-- markdownlint-disable MD022 MD032 -->
 
-[<-- back to Table of Contents](https://james-priest.github.io/100-days-log/)
 # Andrew Park
 
 ## 100 Days Of Code
@@ -54,6 +53,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Progress:**
 - Complete the intro and chapter 1 (Blockchain basics)
 I will upload code as soon as exercises are introduced.  Until then I will create the summary of the lecture.
+Today was just an introduction to Blockchain - what is it, when did it start and the origin.
 ---
 
 ## Pre-launch - GitHub, Twitter & BTA
