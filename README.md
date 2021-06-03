@@ -43,10 +43,27 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
-## 1. The Web Developer Bootcamp
-### Day 1: June 12, 2017 - Monday
+## 1. Ethereum Developer Course
 
-**Today's Project(s):**
+### Day 2: June 2, 2021
+**Today's Learning:**
+
+- BTA's [Ethereum Developer Training on demand](https://blockchaintrainingalliance.com/products/ethereum-developer-training-on-demand) course
+
+**Progress:**
+- Ether source code repos: https://github.com/ethereum
+- Ethereum network
+  - Live network (main net) == ID 1
+  - Test net = ID 2 (retired) and 3 and 4 (Rinkeby)
+  - Beyond 4 is ... private instances of ethereum
+    - assigned
+
+- **Hoping to get to the coding or building portion of the course**
+- **Also hoping to write and pass the certificate exam at the end of the course**
+
+### Day 1: June 1, 2021
+
+**Today's Learning:**
 
 - BTA's [Ethereum Developer Training on demand](https://blockchaintrainingalliance.com/products/ethereum-developer-training-on-demand) course
 
