@@ -45,6 +45,26 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## 1. Ethereum Developer Course
 
+### Day 3: June 3, 2021
+**Today's Learning:**
+
+- BTA's [Ethereum Developer Training on demand](https://blockchaintrainingalliance.com/products/ethereum-developer-training-on-demand) course
+
+**Progress:**
+- Learned that one of the most considerations for blockchain design is
+  - Public or Private
+  - Open or Closed
+  - permissioned or permissionless?
+- uses cases for Hyperledger vs Ethereum
+- the instructor touched on the Ethereum tooling infrastructure
+  - I need to be connected to a node to access the rest of nodes
+  - I can run my own local node https://ethereum.org/en/developers/docs/nodes-and-clients/
+  - or I can connect to an externally hosted node such as infura https://nimbus.guide/infura-guide.html
+    
+ 
+- **Hoping to get to the coding or building portion of the course**
+- **The instructor of the on-demand course keeps talking about the lab and the hands-on portion of the course but after 41% of the court, I still don't even see the sections**
+
 ### Day 2: June 2, 2021
 **Today's Learning:**
 
