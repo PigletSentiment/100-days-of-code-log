@@ -44,6 +44,22 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 ## 1. Ethereum Developer Course
+### Day 4: June 4, 2021
+**Today's Learning:**
+
+- BTA's [Ethereum Developer Training on demand](https://blockchaintrainingalliance.com/products/ethereum-developer-training-on-demand) course
+
+**Progress:**
+- Since I am not getting much out of the lectiures of BTA's course (this guy just talks - not much visuals, not much demos, just talks...) I have done some Googling to make more sense of lectures.
+- I wanted to see the internals of an Ethereum block, I found some resources from ethereum.org
+  
+  https://ethereum.org/en/developers/docs/blocks/
+  
+  https://www.youtube.com/watch?v=_160oMzblY8&t=15s
+
+  These were much more useful than the talkative and not so productive BTA course.
+- **Still hoping to get to the coding or building portion of the course**
+- **Is this guy for real?? Kris Bennett - Chief Learning Officer has been talking over 50% of the course.  He keeps on saying it'll make more sense when we get into the labs but WHEN???! if we are not getting into it any time soon just don't say it!  I am getting so update listening to this guy talk for hours**
 
 ### Day 3: June 3, 2021
 **Today's Learning:**
