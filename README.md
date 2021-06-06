@@ -44,6 +44,26 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 ## 1. Ethereum Developer Course
+### Day 5: June 5, 2021
+**Today's Learning:**
+
+- BTA's [Ethereum Developer Training on demand](https://blockchaintrainingalliance.com/products/ethereum-developer-training-on-demand) course
+
+**Progress:**
+- Learn about the truffle frameworks https://www.trufflesuite.com/
+- the framework is really for smart contract development and testing
+- it offers unit testing feature where the syntax resembles mochachai
+- A couple of resources that can help
+  - Truffles petshop (step by step guide to setting up and run project - tutorial)
+  - truffle boxes - mostly templates
+- Additional reading I must complete
+  - https://consensys.github.io/smart-contract-best-practices/known_attacks/
+  - https://ethereum.org/en/developers/docs/smart-contracts/
+  - https://ethereum.org/en/developers/docs/accounts/
+  - https://ethereum.org/en/developers/docs/transactions/
+  - https://ethereum.org/en/developers/docs/evm/
+- I am getting closer to lab time .. but not yet, it seems ...
+
 ### Day 4: June 4, 2021
 **Today's Learning:**
 
