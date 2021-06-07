@@ -44,6 +44,44 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 ## 1. Ethereum Developer Course
+
+### Day 6: June 6, 2021
+**Today's Learning:**
+
+- BTA's [Ethereum Developer Training on demand](https://blockchaintrainingalliance.com/products/ethereum-developer-training-on-demand) course
+
+**Progress:**
+- After creating a support ticket with the BTA, I discovered that I can just go ahead with the labs on my own.
+- Created the first Solidy code using remix.  Following is my first code
+```
+// SPDX-License-Identifier: CC-By-1.0
+// Creative Commons Attribution 1.0 Generic
+
+pragma solidity ^0.7.0;
+
+contract Album {
+string public artist;
+string public albumTitle;
+uint public tracks;
+string public constant contractAuthor = 'Andrew Park';
+
+    constructor() {
+        artist = 'Nirvana';
+        albumTitle = 'Nevermind';
+        tracks = 13;
+    }
+} // Album
+```
+
+- In addition to the Solidity code, I have been reading up on the following
+  - https://bitsonblocks.net/2016/10/02/gentle-introduction-ethereum/
+  - https://bitsonblocks.net/2015/09/01/gentle-introduction-bitcoin/
+  - https://bitsonblocks.net/2015/09/09/gentle-introduction-blockchain-technology/
+- The last two are recommended pre-readings for the first one.ddi
+
+
+
+
 ### Day 5: June 5, 2021
 **Today's Learning:**
 
