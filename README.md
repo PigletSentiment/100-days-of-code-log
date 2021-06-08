@@ -44,6 +44,48 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 ## 1. Ethereum Developer Course
+### Day 7: June 7, 2021
+**Today's Learning:**
+
+- BTA's [Ethereum Developer Training on demand](https://blockchaintrainingalliance.com/products/ethereum-developer-training-on-demand) course
+
+**Progress:**
+- Ethereum is terrible for large storage
+  Thus IPFS / Swarm
+  - peer to peer
+  - file content == hash
+  - content based addressing and not location based
+  - zero-down time
+  - in this context Eth only stores pointer to data
+    - IPFS/Swarm hosts large files
+  - ipfs.io - A peer-to-peer hypermedia protocol
+
+- Eth 2.0 upgrade
+  - ice age is not considered any more
+  - three phase approach instead
+    - phase 1: A beacon chain network is introduced
+    - phase 2: New Shard Chains is added to the beacon chain
+      - 64 new shards using PoS consensus
+      - basically creating subnets
+    - phase 3: the docking
+      - PoW network will merge with the 64 PoS shards
+      - PoW will remain PoW
+
+- additional lab work: 
+  - Solidity reference library: https://docs.soliditylang.org/en/v0.4.21/contracts.html
+  - learned about functions and function returns
+  ```
+    function getAlbum() public view returns (string memory, string memory, uint) {
+        return (artist, albumTitle, tracks);
+    }
+    
+    function setAlbum(string memory _artist, string memory _albumTitle, uint _tracks) public {
+        artist = _artist;
+        albumTitle = _albumTitle;
+        tracks = _tracks;
+    }
+  ```
+  `view` keyword is used to promise that the state will not change
 
 ### Day 6: June 6, 2021
 **Today's Learning:**
