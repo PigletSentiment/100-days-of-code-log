@@ -44,6 +44,18 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 ## 1. Ethereum Developer Course
+### Day 8: June 8, 2021
+**Today's Learning:**
+
+- BTA's [Ethereum Developer Training on demand](https://blockchaintrainingalliance.com/products/ethereum-developer-training-on-demand) course
+  - labs 
+  
+**Progress:**
+- Lab 2 completed
+  - Experimented with Metamask (online wallet)
+  - In one of the Ethereum test net, I received a few eth coins and practiced transferring it to another wallet kept in Metamask
+  - Used Etherscan to publicly audit the transactions to and from my wallets
+
 ### Day 7: June 7, 2021
 **Today's Learning:**
 
@@ -51,7 +63,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Progress:**
 - Ethereum is terrible for large storage
-  Thus IPFS / Swarm
+
+ Thus IPFS / Swarm
   - peer to peer
   - file content == hash
   - content based addressing and not location based
