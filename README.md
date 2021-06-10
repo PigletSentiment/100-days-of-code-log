@@ -44,6 +44,33 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 ## 1. Ethereum Developer Course
+### Day 9: June 9, 2021
+**Today's Learning:**
+
+- BTA's [Ethereum Developer Training on demand](https://blockchaintrainingalliance.com/products/ethereum-developer-training-on-demand) course
+  - labs
+
+**Progress:**
+- Lab 3 and 4 completed
+- Created an account on infura.io and started a new project
+  - So that I can my project on a Ethereum test net via the node provided by infura
+  - With the API reference guide, I was able to write an extremely short python code for getting my balance from MetaMask.
+  ```
+  from web3 import Web3
+  w3 = Web3(Web3.HTTPProvider("https://ropsten.infura.io/v3/0f483572710449d88734c7afd9------"))
+  print(w3.eth.get_balance('0x831C8D503De618774695810a829e90f9f0------'))
+  ```
+  this returned the following result:
+```1999979000000000000```
+  
+- the API reference document for python: https://web3py.readthedocs.io/en/stable/providers.html
+
+- additionally, I got to download and use Ganache. It is a blockchain simulator which runs locally.
+  - After the setup, I had to point my smart contract that I created using remix needed to be pointed to the simulated environment
+  - After the deployment, the lab provided code for UI which interfaced with the simulated blockchain and I was able to view the information in the UI
+    
+Tomorrow, I am planning on revisiting the concepts and lectures to ensure that I really understand the technology.
+
 ### Day 8: June 8, 2021
 **Today's Learning:**
 
