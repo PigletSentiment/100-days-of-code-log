@@ -44,6 +44,27 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 ## 1. Ethereum Developer Course
+
+
+### Day 10: June 10, 2021
+
+**Today's Learning:**
+As logged yesterday, I wanted to take a breather from the course to focus on some of the key concepts and underlying reasoning.
+I always wondered why "mining" was required in Crypto (just focusing on BTC and ETH for now).
+
+The mining activity is needed to deter easy manipulation of the whole blockchain.  If it does not involve a form of labour through which the right to write the block, it is too easy for an attacker to "bully" the chain.
+Therefore the sensible way to deter such bullying is to ask for "Proof of Work" which is obtained through "mining" process which tries to come up with a "nonce" whose presence results in a number of leading zeroes in the hash.
+
+The following explains things rather well.
+https://assets.ctfassets.net/sdlntm3tthp6/5CbV1gD3NuCCkKauWug6aU/b24fcd5fa2a5cd4a0c32e7dd90838c8a/A-Gentle-Introduction-To-Bitcoin-Mining-WEB.pdf
+
+https://bitcoin.stackexchange.com/questions/8031/what-are-bitcoin-miners-really-solving
+
+It appears that block size and the number of transactions in it varies every day.  
+
+Just trying to get my head around these key concepts.
+
+
 ### Day 9: June 9, 2021
 **Today's Learning:**
 
