@@ -44,7 +44,38 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 ## 1. Ethereum Developer Course
+### Day 11: June 11, 2021
 
+**Today's Learning:**
+Finished lab 5 - Events
+- In the smart contracts, events can be defined and raised. Raising of the events can be anywhere in the smart contracts but just have to serve purpose.  In today's lab, we were raising events for setting new album information and we used the raised events to display information in the user facing interface.
+  These are done in remix IDE:
+  - When defining an event, we use following syntax:
+    <pre>
+    event eventName(<em>parameters passed to the event listener</em>);
+    </pre>
+  - where _event_ is the keyword; _eventName_ is any meaningful name given to the event;
+  - whenever the code wishes to _*raise*_ an event, keyword _emit_ is used
+    <pre>
+    emit eventName(_value1, _value2, _value3);
+    </pre>
+- These are done in UI code (i.e. index.html)
+  - new ABI (application binary interface) must be defined after an event has been defined
+  - a listener must be created and function to handle the emitted event.  It'll look something like this:
+    <pre>
+    albumContract.events.eventName(function(error, result) {
+      if (!error) {
+        $("#loader").hide();
+          $("#album").html('The current album is ' + result.returnValues.albumEvent_Title + ' by ' + result.returnValues.albumEvent_Artist + '.<br/> It contains ' + result.returnValues.albumEvent_Tracks + ' tracks.');
+        } else {
+          $("#loader").hide();
+          console.log(error);
+      }
+    });
+    </pre>
+- The usual applies ... after the remix code update, the code must be compiled and deployed
+- During the deployment, running environment must be chosen and with the event emitting, only the web socket protocol is supported thus I had to go with the Ganache created local environment
+- After the deployment, code update to the UI and a refresh were needed to show the new UI functionality
 
 ### Day 10: June 10, 2021
 
