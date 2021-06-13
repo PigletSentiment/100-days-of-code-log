@@ -44,6 +44,20 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 ## 1. Ethereum Developer Course
+### Day 12: June 12, 2021
+
+**Today's Learning:**
+Finished Lab 6 - function modifiers and error catching
+- Learned about function modifiers whose job is to some sanity checking and allow the function to go on if everything passes
+- Fairly limited function in that the only action it can take is execute the attached function or interrupt
+- The keyword in Solidity is `modifier`
+- There can be multiple modifiers in multiple functions. If multiple, the modifiers get executed in sequence
+- Error handling is just like event handling (i.e. catching error event)
+  - `event errorEvent(string errorEvent_Description);`
+  - `emit` is used to "send" th error
+- then in the UI, simply write the handler
+  - `albumContract.events.errorEvent(function(error,result){});`
+
 ### Day 11: June 11, 2021
 
 **Today's Learning:**
