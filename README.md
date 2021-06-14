@@ -45,6 +45,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## 1. Ethereum Developer Course
 ### Day 12: June 12, 2021
+**Today's Learning:**
+Too tired to be coding thus resorted to reading more about the details of Ethereum.
+In addition to developing decentralized applications, I am trying to learn technical details of crypto coin implementations so this type of detailed reading helps.
+Today's reading:
+EVM: https://ethereum.org/en/developers/docs/evm/
+Blocks: https://ethereum.org/en/developers/docs/blocks/
+
+### Day 12: June 12, 2021
 
 **Today's Learning:**
 Finished Lab 6 - function modifiers and error catching
