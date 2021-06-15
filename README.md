@@ -44,7 +44,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 ## 1. Ethereum Developer Course
-### Day 12: June 12, 2021
+### Day 14: June 14, 2021
+**Today's Learning:**
+- completed lab 7
+  - learned about `struct` and `mapping` in Solidity
+  - I introduced a bug .. I am getting `Error: Returned error: VM Exception while processing transaction: revert`
+  - I checked the code several times but no luck. Hoping to resolve this before tomorrow.
+
+### Day 13: June 13, 2021
 **Today's Learning:**
 Too tired to be coding thus resorted to reading more about the details of Ethereum.
 In addition to developing decentralized applications, I am trying to learn technical details of crypto coin implementations so this type of detailed reading helps.
