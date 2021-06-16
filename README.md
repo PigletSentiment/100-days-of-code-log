@@ -44,6 +44,16 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 ## 1. Ethereum Developer Course
+### Day 15: June 15, 2021
+**Today's Learning:**
+- I had to troubleshoot and fix yesterday's error message. `Error: Returned error: VM Exception while processing transaction: revert`
+  - There was a discrepancy between the mapping hash I created in the remix (smart contract) and the UI code.
+  - While I defined userAlbums in the smart contract, I used the variable userAlbum (without the trailing "s") in the UI code
+- The code still generated errors and eventually I had to change the compiler to 0.8.4 from 0.7.6 which compiled successfully and also got rid of the other errors.
+- Just read up on gas price and gas limit.  Found this definition to be helpful:
+  `The Gas Limit is the maximum amount of Gas that a user is willing to pay for performing this action or confirming a transaction (a minimum of 21,000). The price of Gas (Gas Price) is the amount of Gwei that the user is willing to spend on each unit of Gas.`
+- For the record, one gwei is equal to one billion wei
+
 ### Day 14: June 14, 2021
 **Today's Learning:**
 - completed lab 7
