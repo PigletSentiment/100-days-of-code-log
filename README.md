@@ -44,6 +44,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 ## 1. Ethereum Developer Course
+### Day 16: June 16, 2021
+**Today's Learning:**
+- completed lab 8
+  - learned inheritance where one contract inherits features from another
+  - Album contract now inherits from Utility contract
+- during the testing, I ran into "out of gas" error.  Nothing is more confusing than that error message. I had plenty of gas but it is just that user's favourite album information had not been initialized
+  - the workaround is to initialize the information right after the deployment via remix
+  - after that the web interface works like a charm
+
 ### Day 15: June 15, 2021
 **Today's Learning:**
 - I had to troubleshoot and fix yesterday's error message. `Error: Returned error: VM Exception while processing transaction: revert`
