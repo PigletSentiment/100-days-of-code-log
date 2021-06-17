@@ -52,6 +52,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - during the testing, I ran into "out of gas" error.  Nothing is more confusing than that error message. I had plenty of gas but it is just that user's favourite album information had not been initialized
   - the workaround is to initialize the information right after the deployment via remix
   - after that the web interface works like a charm
+- Today's code:
+  - https://github.com/PigletSentiment/100-days-of-code-code/tree/main/MyAlbumApplication-nodejs
+  - https://github.com/PigletSentiment/100-days-of-code-code/commit/e8ce7e77797a6df0d74b60dea4caa07bb6e16a3c
 
 ### Day 15: June 15, 2021
 **Today's Learning:**
