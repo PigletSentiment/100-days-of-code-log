@@ -44,6 +44,19 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 ## 1. Ethereum Developer Course
+### Day 18: June 18, 2021
+**Today's Learning:**
+- my remix and metamask problem is finally figured out  
+  - when working with metamask plugin, remember to allow popup windows
+  - also exit from full browser window - this hid the popup window that supposedly appeared
+  - the popup window from metamask is a confirmation window.  The confirm button must be pressed otherwise, the transaction will not proceed.
+- completed lab 9 and there was not much to it.  Ensure that I am logged into metamask then in the remix choose "inject web3" option.  A popup window will ask for confirmation.
+  - if I have any Ethereum then I am able to create transactions  It may take a while but eventually it comes back and from the metamask window I can even open the etherscan page showing the transaction.
+
+### Day 17: June 17, 2021
+**Today's Learning:**
+- Lab 9 was ruined.  I was asked to work with metamask to deploy into the Ropsten network but for whatever reason my remix will not connect to the metamask. Need to troubleshoot further.
+
 ### Day 16: June 16, 2021
 **Today's Learning:**
 - completed lab 8
