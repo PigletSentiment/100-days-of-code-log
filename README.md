@@ -44,6 +44,20 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 ## 1. Ethereum Developer Course
+### Day 19: June 19, 2021
+**Today's Learning:**
+- Completed lab 10 and created my Ethereum derivative (ERC20 compatible) coin called LKM (lowKickCoin)
+  - coin contract address is https://ropsten.etherscan.io/address/0x7a9b48dae529a530a1997d39f58e6a8eb1f23551#code
+  - source code is also found in above URL as well
+- The only issue is that I am supposed to get 100000000 LKC upon adding to my wallet but I currently get 0.
+- I might have to repeat the lab until I really understand it.  For now, it should be noted that below functions MUST be in place for the coin to be ERC-20mcompatible
+  - **totalSupply** Returns the total supply of the token created.
+  - **balanceOf** Returns the token balance for the supplied address 
+  - **transfer** Allows the contract owner to give tokens to other users.
+  - **transferFrom** This function is used to support automated transfers to a specific account.
+  - **approve** This function checks the transaction against the total supply of tokens to make sure that there are none missing or extra.
+  - **allowance** This function will cancel a transction if the user does not have sufficient balance
+
 ### Day 18: June 18, 2021
 **Today's Learning:**
 - my remix and metamask problem is finally figured out  
