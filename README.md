@@ -44,6 +44,19 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 ## 1. Ethereum Developer Course
+### Day 20: June 20, 2021
+**Today's Learning:**
+- trying to troubleshoot the default balance that ends up in my wallet when I create a new coin
+- re-traced the steps to try re-create the coin under a different name.  Now I am getting this error:
+```text
+Compiler debug log:
+Error! Unable to generate Contract ByteCode and ABI
+Found the following ContractName(s) in source code : ERC20Interface, MyToken, SafeMath
+But we were unable to locate a matching bytecode (err_code_2)
+For troubleshooting, you can try compiling your source code with the Remix - Solidity IDE and check for exceptions
+```
+- planning on spending day time brain tomorrow.  if I cannot figure it out then, I will move on but will create a support ticket.
+
 ### Day 19: June 19, 2021
 **Today's Learning:**
 - Completed lab 10 and created my Ethereum derivative (ERC20 compatible) coin called LKM (lowKickCoin)
