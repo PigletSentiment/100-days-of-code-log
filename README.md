@@ -44,6 +44,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 ## 1. Ethereum Developer Course
+### Day 21: June 21, 2021
+**Today's Learning:**
+- Moved on with the rest of the lab and it seems like my previous coin deployment succeeded. I see them in my wallet
+- learned to create ERC 721 (Non Fungible Token - NFT) contracts
+  - deployed a sample contract in Ropsten network [contract URL here](https://ropsten.etherscan.io/address/0x326cb560bf059ab88fb5b6e9ac6657c15d83b602)
+  - added a sample image URL onto the contract [transaction here](https://ropsten.etherscan.io/tx/0x601ba337bfeebfb8c33e2350f7d509ccf789afd2dfc5199470f708f200703e7c)
+- Did an additional which goes through contract development using truffle suite.  Currently, learning how to write unit testing.
+
 ### Day 20: June 20, 2021
 **Today's Learning:**
 - trying to troubleshoot the default balance that ends up in my wallet when I create a new coin
