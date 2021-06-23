@@ -44,6 +44,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 ## 1. Ethereum Developer Course
+### Day 22: June 22, 2021
+**Today's Learning:**
+- Researched into a couple of Crypto Coins: XRP and Tether (i.e. stablecoin)
+  - Tether boasts that its coin is 100% backed by fiat currency which turned out to be a lie. A recent audit revealed that only 2.5% of the coin were covered with cash and roughly 65% was covered by commercial paper.  Tether is owned by Bitfinex who was alledgedly participated in price manipulation.
+  - XRP advertises that it can settle global transfer of funds within seconds.  It also boasts that it operates permissionless and distributed blockchain but that claim is misleading.  In order to participate in the chain, one must "apply" and receive approval but apparently the participants are big financial corporations. Since it operates more like permissioned blockchain, it does not need miners and may not necessarily have enough visibility into the transactions.
+- Going forward, once a week, I will be dedicating my session for researching into the crypto coins. I need to know the differentiating features.
+
 ### Day 21: June 21, 2021
 **Today's Learning:**
 - Moved on with the rest of the lab and it seems like my previous coin deployment succeeded. I see them in my wallet
