@@ -44,6 +44,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 ## 1. Ethereum Developer Course
+### Day 23: June 23, 2021
+**Today's Learning:**
+- Started the pet shop tutorial project available from Truffle (https://www.trufflesuite.com/tutorial)
+  - Installed Truffle suite on my local machine
+  - Started using my own IDE (PyCharm) and command line commands to start compiling and deploying the smart contracts
+  - Learned how to write test cases using truffles Assert.sol functions
+  - Wrote 3 test cases but I saw that the number of cases go from 4 to 26 just based on those test cases.  I need to understand why so many transactions were needed to give results.
+  - my pet shop project code is [here](https://github.com/PigletSentiment/100-days-of-code-code/tree/main/pet-shop-tutorial)
+
 ### Day 22: June 22, 2021
 **Today's Learning:**
 - Researched into a couple of Crypto Coins: XRP and Tether (i.e. stablecoin)
