@@ -44,6 +44,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 ## 1. Ethereum Developer Course
+### Day 24 and 25: June 24-25, 2021
+**Today's Learning:**
+- added frontend code for the pet shop tutorial I have been takin
+  - latest code [here](https://bit.ly/2SqBzku)
+  - it seems like there is a bug since when I click "Adopt" nothing happens.
+  - I need to add debug code to dive deep but thus far, I got to use truffle suite extensively as well as connecting Ganache, Metamask and frontend code altogether.  This has been extremely beneficial.
+
 ### Day 23: June 23, 2021
 **Today's Learning:**
 - Started the pet shop tutorial project available from Truffle (https://www.trufflesuite.com/tutorial)
