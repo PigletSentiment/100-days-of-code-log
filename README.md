@@ -44,6 +44,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 ## 1. Ethereum Developer Course
+### Day 26: June 26, 2021
+**Today's Learning:**
+- Researched into Corda and XDC
+  - I always thought Corda was a token but it refers to a Decentralized Finance product
+  - Corda is a permissioned shared ledger protocol which started looking like a permissioned blockchain but due to various limitations of the blockchains (i.e. lack of privacy of transactions) decided to become more of inter organization messaging protocol.
+  - In fact, Corda does not want to be another blockchain DApp
+  - One of the key differentiators is that the transactions do not need to be approved by the majority in the chain but smart contract agreement between the involved parties is achieved, the transactioin is approved
+  - Corda is for the financial industry and various financial organizations participate in it.
+  - XDC is the Cordite community's token
+  - Corda is at version 4 now and comes with fully open sourced SDK, libraries and other codes necessary to develop applications or run nodes
+
 ### Day 24 and 25: June 24-25, 2021
 **Today's Learning:**
 - added frontend code for the pet shop tutorial I have been takin
