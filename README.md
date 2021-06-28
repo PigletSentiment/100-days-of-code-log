@@ -44,6 +44,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 ## 1. Ethereum Developer Course
+### Day 27: June 27, 2021
+**Today's Learning:**
+- Returned to the Truffle tutorial (Pet shop) and continued the troubleshoot session to determine why the code was not working
+- on line 28, within the initWeb3 function, I had specified `App.web3Provide` instead of `App.web3Provider` (missed "r" at the end).
+- With the typo above, the web injection provider would not have been configured properly and thus the transactions were not being handled.
+- Started studying for the Ethereum developer certificate - the study process will further reveal what I do not understand about Ethereum and crypto in geenral
+
 ### Day 26: June 26, 2021
 **Today's Learning:**
 - Researched into Corda and XDC
