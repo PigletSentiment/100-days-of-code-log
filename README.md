@@ -43,7 +43,18 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
-## 1. Ethereum Developer Course
+### Day 32:  July 5, 2021
+I had a few days off for being sick after the vaccination and then went on a mini vacation over the long weekend.
+I am back and continuing right where I left off.
+Today I decided to study XLM (Stellar lumen).  Basically Stellar is a permissionless blockchain network with its own consensus mechanism (Stellar Consensus Protocol), which performs faster than Bitcoin and Ethereum.
+Essentially with Stellar, one is meant to digitally represent fiat money (be it, USD, CDN, Pesos etc). The digital currency can be withdrawn into actual cash by the end users any time.
+Lumen (XLM) is a digital currency native to Stellar blockchain.  It is compatible to Ethereum's gas where it is in place to prove stake in the Stellar network.
+
+One question I have is if Stellar is meant to represent fiat money, how come there is fluctuation in (let's say) USD in Stellar?
+
+At this point, there are more questions than answers.  I may have to dive deep to understand better.
+
+
 ### Day 27: June 27, 2021
 **Today's Learning:**
 - Returned to the Truffle tutorial (Pet shop) and continued the troubleshoot session to determine why the code was not working
