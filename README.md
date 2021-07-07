@@ -42,6 +42,10 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 ---
+### Day 33:  July 6, 2021
+I have decided that I am going to be writing the "Ethereum Developer certificate" exam.  It'll require for me to complete the quizzes and write practice exams.
+For today I have completed "Chapter 2: Ethereum Nodes and Networks" and got 12/15 in the practice exam.  This will continue until I write and complete the certification exam.
+
 
 ### Day 32:  July 5, 2021
 I had a few days off for being sick after the vaccination and then went on a mini vacation over the long weekend.
