@@ -42,6 +42,10 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 ---
+### Day 34:  July 7, 2021
+Ethereum Developer certificate exam prep continues.  Completed chapters 3, 4 and 5.  I got 100% for chapters 3 and 5 but only 77% for chapter 4.
+Only 3 more chapters to go before the exam but the last 3 are the hardest.
+
 ### Day 33:  July 6, 2021
 I have decided that I am going to be writing the "Ethereum Developer certificate" exam.  It'll require for me to complete the quizzes and write practice exams.
 For today I have completed "Chapter 2: Ethereum Nodes and Networks" and got 12/15 in the practice exam.  This will continue until I write and complete the certification exam.
