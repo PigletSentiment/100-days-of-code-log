@@ -42,6 +42,10 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 ---
+### Day 35:  July 8, 2021
+Ethereum Developer certificate exam prep continues.  Completed chapters 6 and 7. Getting pretty high scores but need to improve on Solidity knowledge.
+
+
 ### Day 34:  July 7, 2021
 Ethereum Developer certificate exam prep continues.  Completed chapters 3, 4 and 5.  I got 100% for chapters 3 and 5 but only 77% for chapter 4.
 Only 3 more chapters to go before the exam but the last 3 are the hardest.
