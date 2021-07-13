@@ -42,9 +42,16 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 ---
+### Day 38:  July 12, 2021
+Started on Corda course. Completed four modules on the cryptography basics and upon completion, I will be writing Corda cert exam
+https://corda-certification.myshopify.com/collections/frontpage/products/corda-standard-certification-test
+
+### Day 36-37:  July 10-11, 2021
+Passed two certificate exams - Certified Blockchain Business Foundations and Certified Blockchain Developer - Ethereum.
+The ETH dev cert is publicly viewable [here](https://www.btacertified.com/dlink/51a5bedf200557f82b752360d2fcab443bb6fb61e695c99d36430777b10bf40d/certdisplayhash)
+
 ### Day 35:  July 8, 2021
 Ethereum Developer certificate exam prep continues.  Completed chapters 6 and 7. Getting pretty high scores but need to improve on Solidity knowledge.
-
 
 ### Day 34:  July 7, 2021
 Ethereum Developer certificate exam prep continues.  Completed chapters 3, 4 and 5.  I got 100% for chapters 3 and 5 but only 77% for chapter 4.
