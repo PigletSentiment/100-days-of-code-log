@@ -42,6 +42,23 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 ---
+### Day  41: July 15, 2021
+- Completed introduction to Hyperledger fabric.  I learned that Hyperledger is more suited for enterprises (designed with enterprise in mind)
+- There can be multiple ledgers called channels
+- Hyperledger operates in permissioned mode and the "membership services provider" which is often LDAP or AD or oAuth provides the membership and permission information
+- The entire ledgers (aka channels) cannot be accessed in a single place
+- there are three different types of nodes
+  1. committing node - keeps redundant copies of ledgers
+  2. endorsing node - executes smart contracts
+  3. ordering node  keeps all copies of the ledger in-sync
+
+### Day  40: July 15, 2021
+Change of direction.  The BTA does not have certification for Corda so I am changing the course work to Hyperledger Fabric.
+Started the course today which covered a lot of basic of early cryptos etc.
+
+### Day 39:  July 14, 2021
+Fundamentals of Corda framework continues. Learned today that Corda uses UTXO model but also uses Notary service which allows it to run transactions in parallel.
+
 ### Day 38:  July 12, 2021
 Started on Corda course. Completed four modules on the cryptography basics and upon completion, I will be writing Corda cert exam
 https://corda-certification.myshopify.com/collections/frontpage/products/corda-standard-certification-test
