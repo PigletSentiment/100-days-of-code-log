@@ -42,7 +42,34 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 ---
-### Day  41: July 15, 2021
+### Day 42: July 17, 2021
+Hyperledger Fabric use cases
+- integration with the existing systems
+- db == rapidly storign ad retrieving large volumes of data
+- blockchain is designed as a tx processing and logging
+
+decentralized storage
+- ipfs.io
+- storj.io
+
+IBM use case library
+- https://www.ibm.com/blockchain/use-cases/
+
+Hyperledger composer
+- most likely will be re-branded and integrated with Fabric
+- great for PoC
+
+Composer markup language
+- mimics node.js
+
+Yeoman ??
+
+The transaction lifecycle
+- what are the steps of a tx in fabric? 
+----- 7 setps
+
+
+### Day  41: July 16, 2021
 - Completed introduction to Hyperledger fabric.  I learned that Hyperledger is more suited for enterprises (designed with enterprise in mind)
 - There can be multiple ledgers called channels
 - Hyperledger operates in permissioned mode and the "membership services provider" which is often LDAP or AD or oAuth provides the membership and permission information
