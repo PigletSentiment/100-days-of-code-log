@@ -42,6 +42,22 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 ---
+### Day 43: July 19, 2021
+Hyperledger fabric transaction life cycle
+- there are 7 steps in the life cycle
+1. Propose transaction (endorsing peer receives them)
+2. Execute proposal (by endorsing peer - creates a “read set” before the execution)
+3. Proposal response: the endorsing nodes sends back its read set and the write set and it is up to the client application to determine whether the consensus has been reached. (NOTE: endorsing nodes do not get to see each other’s read/write sets). Endorsement policy: how to determine consensus. 
+4. Order transaction: client app sends the read/write sets to the ordering peer (service) - message queue. 
+5. Deliver transaction - broadcast tx to the endorsing and committing peers. 
+6. Validate transaction: tx has been added to the ledger
+7. Notify transaction: notify the client application
+
+There are also 3 different types of nodes in the hyperledger fabric network
+1. Committing peer: maintains ledger and state - commits transactions
+2. Endorsing peer: executes smart contracts
+3. Ordering peer: ensures that all transactions are recorded in order
+
 ### Day 42: July 17, 2021
 Hyperledger Fabric use cases
 - integration with the existing systems
