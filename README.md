@@ -42,6 +42,30 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 ---
+### Day 44: July 20, 2021
+Completed chapter 6 which describes Chaincode.  Chaincode can be written in
+- Golang
+- Java
+- Nodejs
+of these Golang always gets the first update.
+
+Chaincode has 3 structures:
+- Init
+- Invoke
+- Main
+
+Fabric Shim APIs
+- 4 main APIs
+    - type ChaincodeLogger
+    - type ChaincodeStub
+    - type ChaincodeStubInterface
+    - type MockStub
+ Most common methods
+    - GetState()
+    - PutState()
+    - DelState()
+    - setEvent()
+
 ### Day 43: July 19, 2021
 Hyperledger fabric transaction life cycle
 - there are 7 steps in the life cycle
