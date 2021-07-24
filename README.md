@@ -43,6 +43,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 ### Day 45: July 22, 2021
+Completed chapters 8 and 9:
+learned about the "Network" operations.  How to instantiate chaincode and how to upgrade etc
+
+
+### Day 45: July 22, 2021
 Completed chapter 7.
 World state DB is backed by CouchDB and the ledger uses LevelDB
 The World state DB can be recovered by re-playing the ledger from the beginning to the end
