@@ -42,7 +42,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -->
 
 ---
-### Day 46: August 4, 2021
+### Day 46-49: July 23 - August 4, 2021
 About half way finished with the lab 1 of the hyperledger fabric developer course.  There is a lot of base code to be written in and I do not want to copy and paste.
 The latest commit: 
 https://github.com/PigletSentiment/100-days-of-code-code/commit/faf9186d544fcba1ee047790f275866a8066174f
